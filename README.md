@@ -10,8 +10,12 @@ Utilized mmdetection framework for instance segmentation model.
 
 ```dental_postprocess.py``` finds teeth region and missing teeth using AI model outputs. The code calculates the distance from the center point of each tooth to the corner points of the image, calculates in which region the teeth should be, and assigns regions to the teeth. Thus, the teeth are named according to the FDI numbering system. 
 
+---
+You can run all the project by following command: 
 
-You can run all the project by following command ```python3 dental_main.py```
+```python3 dental_main.py```
+
+---
 
 Images result will be saved in ```result_images``` folder and information result will be saved ```dental_report.txt```.
 
