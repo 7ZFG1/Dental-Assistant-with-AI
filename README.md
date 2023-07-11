@@ -38,3 +38,7 @@ Total Number of Teeth: 2
 ----IMAGE: 25.png----
 Missing Teeth: 0
 Total Number of Teeth: 32
+
+TODO
+---------------------------
+Segmented areas is not appeared in result images even if the model is instance segmentance model. This is because the model output cannot be parsed correctly. This bug will be fixed.
