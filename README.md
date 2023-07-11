@@ -2,6 +2,7 @@
 
 This project aims to extract dental information on radiograph images using AI. 
 Utilized MaskRCNN model to detect and segment teeth and post-process algortihm to numbering teeth according to the FDI numbering rule.
+
 Utilized mmdetection framework for instance segmentation model.
 
 ![fdi](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/272621ae-d212-4ab4-b528-9167b08a5728)
