@@ -18,7 +18,7 @@ You can run all the project by following command:
 
 ---
 
-Images result will be saved in ```result_images``` folder and information result will be saved ```dental_report.txt```.
+Images' result will be saved in ```result_images``` folder and information result will be saved ```dental_report.txt```.
 
 ![1](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/77b0e8ab-87bc-4d70-a57a-ad9f09d2fc45)
 ![2](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/a79ec7b6-d60c-4998-8d1b-35976201b254)
