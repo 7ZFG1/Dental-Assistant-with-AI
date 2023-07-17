@@ -5,7 +5,7 @@ Utilized MaskRCNN model to detect and segment teeth and post-process algortihm t
 
 Utilized mmdetection framework for instance segmentation model.
 
-![fdi](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/272621ae-d212-4ab4-b528-9167b08a5728)
+![fdi](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/b0700b6a-a090-4b9d-adb2-571f4d31c26e)
 
 ```AI_Engine.py``` runs MaskRCNN model to detect and segment teeth. The model trained 8 class. For example, there are 4 molars in the mouth and this molar is labeled and trained as label 8 regardless of the region of the molar.
 
@@ -20,11 +20,11 @@ You can run all the project by following command:
 
 Images' result will be saved in ```result_images``` folder and information result will be saved ```dental_report.txt```.
 
-![1](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/77b0e8ab-87bc-4d70-a57a-ad9f09d2fc45)
-![2](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/a79ec7b6-d60c-4998-8d1b-35976201b254)
-![3](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/5915891f-5da8-4d2d-9215-ab2d452c0109)
-![4](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/edff5051-32b7-4b32-aa9f-c9950bc3fc70)
 
+![1](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/a8a3f9d6-0740-4a9b-80fb-862254b90bd8)
+![2](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/350b6d44-6679-469a-988d-f07d91120cbe)
+![3](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/dfde9479-1967-4727-8569-6f196262e050)
+![4](https://github.com/7ZFG1/Dental-Assistant-with-AI/assets/64545114/c0e26ecc-1cd0-414f-8335-a82bfa0bfbbf)
 
 >Dental Report
 -------------------------------------
